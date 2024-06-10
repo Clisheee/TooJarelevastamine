@@ -1,0 +1,42 @@
+C:\Users\opilane\Desktop\Suur töö\TooJarelevastamine\bin\Debug\net8.0\TooJarelevastamine.exe
+C:\Users\opilane\Desktop\Suur töö\TooJarelevastamine\bin\Debug\net8.0\TooJarelevastamine.deps.json
+C:\Users\opilane\Desktop\Suur töö\TooJarelevastamine\bin\Debug\net8.0\TooJarelevastamine.runtimeconfig.json
+C:\Users\opilane\Desktop\Suur töö\TooJarelevastamine\bin\Debug\net8.0\TooJarelevastamine.dll
+C:\Users\opilane\Desktop\Suur töö\TooJarelevastamine\bin\Debug\net8.0\TooJarelevastamine.pdb
+C:\Users\opilane\Desktop\Suur töö\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Desktop\Suur töö\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.AssemblyInfoInputs.cache
+C:\Users\opilane\Desktop\Suur töö\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.AssemblyInfo.cs
+C:\Users\opilane\Desktop\Suur töö\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\Suur töö\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.dll
+C:\Users\opilane\Desktop\Suur töö\TooJarelevastamine\obj\Debug\net8.0\refint\TooJarelevastamine.dll
+C:\Users\opilane\Desktop\Suur töö\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.pdb
+C:\Users\opilane\Desktop\Suur töö\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.genruntimeconfig.cache
+C:\Users\opilane\Desktop\Suur töö\TooJarelevastamine\obj\Debug\net8.0\ref\TooJarelevastamine.dll
+C:\Users\opilane\Desktop\TooJarelevastamine\bin\Debug\net8.0\TooJarelevastamine.exe
+C:\Users\opilane\Desktop\TooJarelevastamine\bin\Debug\net8.0\TooJarelevastamine.deps.json
+C:\Users\opilane\Desktop\TooJarelevastamine\bin\Debug\net8.0\TooJarelevastamine.runtimeconfig.json
+C:\Users\opilane\Desktop\TooJarelevastamine\bin\Debug\net8.0\TooJarelevastamine.dll
+C:\Users\opilane\Desktop\TooJarelevastamine\bin\Debug\net8.0\TooJarelevastamine.pdb
+C:\Users\opilane\Desktop\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Desktop\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.AssemblyInfoInputs.cache
+C:\Users\opilane\Desktop\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.AssemblyInfo.cs
+C:\Users\opilane\Desktop\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.dll
+C:\Users\opilane\Desktop\TooJarelevastamine\obj\Debug\net8.0\refint\TooJarelevastamine.dll
+C:\Users\opilane\Desktop\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.pdb
+C:\Users\opilane\Desktop\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.genruntimeconfig.cache
+C:\Users\opilane\Desktop\TooJarelevastamine\obj\Debug\net8.0\ref\TooJarelevastamine.dll
+C:\Users\opilane\source\repos\TooJarelevastamine\bin\Debug\net8.0\TooJarelevastamine.exe
+C:\Users\opilane\source\repos\TooJarelevastamine\bin\Debug\net8.0\TooJarelevastamine.deps.json
+C:\Users\opilane\source\repos\TooJarelevastamine\bin\Debug\net8.0\TooJarelevastamine.runtimeconfig.json
+C:\Users\opilane\source\repos\TooJarelevastamine\bin\Debug\net8.0\TooJarelevastamine.dll
+C:\Users\opilane\source\repos\TooJarelevastamine\bin\Debug\net8.0\TooJarelevastamine.pdb
+C:\Users\opilane\source\repos\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.dll
+C:\Users\opilane\source\repos\TooJarelevastamine\obj\Debug\net8.0\refint\TooJarelevastamine.dll
+C:\Users\opilane\source\repos\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.pdb
+C:\Users\opilane\source\repos\TooJarelevastamine\obj\Debug\net8.0\TooJarelevastamine.genruntimeconfig.cache
+C:\Users\opilane\source\repos\TooJarelevastamine\obj\Debug\net8.0\ref\TooJarelevastamine.dll
